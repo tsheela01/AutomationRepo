@@ -2,7 +2,7 @@
 <suite name="Automation-Test-Suite" >
     <test name="Parallel Test" parallel = "methods">
         <classes>
-            <class name="com.testngbasics.TestNGParallelExecution" />
+            <class name="testng.testngbasics.TestNGAssertions" />
         </classes>
     </test>
 </suite>
